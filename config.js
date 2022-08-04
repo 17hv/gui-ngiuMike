@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Án Nhongg ngiuu Mike',
+    introDesc: `Cả một bầu trời thương nhớ
+    Chuyện tình thật đẹp đôi ta
+    Người hằng ở trong tâm trí trong mỗi nhịp thở
+    Nơi đêm rồi ngày`,
+    btnIntro: ':3:3',
+    title: 'This message is sent from my heart 😙',
+    desc: 'I love u in every universe +3000 ',
+    btnYes: 'Khum chê được thì đành phải ấn nút iuu thương này thui ngiuu <3',
+    btnNo: 'Mike chê ĐHV -.-',
+    question:'Trên thế giới hơn 7 tỉ người mà tại sao nụ cười của Mike lại đẹp nhất? <3',
+    btnReply: 'Send to ĐHV',
+    reply: 'Tớ yêu cậu nhiều lắm đóa moa moa <33333333',
+    mess: 'Ỏ tớ bíc mà 🥰. Tớ cũng yêu cậu 😘😘',
+    messDesc: 'Cậu làm ngiu tớ nhaaaaa',
+    btnAccept: 'Naeeeeee, đồng ý nèe',
+    messLink: 'https://m.me/9stnm' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
